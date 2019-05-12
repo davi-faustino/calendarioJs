@@ -6,7 +6,7 @@ calendarioJs é um calendário feito em javascript baseado em um calendário php
 # Como Usar
 Para usar basta incluir o arquivo calendario.js na página desejada e adicionar as seguintes linha no html:
 ```
-<div><h1 id="mes"></h2></div>
+<div><h2 id="mes"></h2></div>
 <table id="tabela_calend">
   // Aqui vai ser criado o calendário
 </table>
